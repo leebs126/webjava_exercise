@@ -10,7 +10,7 @@ public class Exercise06 {
 						};
 		
 		int[] arrTotal = {0, 0, 0};
-		double[] arrAverage = {0.0F, 0.0F, 0.0F};
+		double[] arrAverage = {0.0, 0.0, 0.0};
 		
 		for(int i = 0; i < arrTotal.length; i++) {
 			for(int j = 0; j < arrTotal.length; j++) {
